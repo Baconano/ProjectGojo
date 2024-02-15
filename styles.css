@@ -1,0 +1,17 @@
+#video1:hover { /*removes Hovering or tries to */
+    pointer-events: none;
+}
+#playPauseButton { /*seetings for button width font and height*/
+    width: 1000px;
+    height: 50px;
+    font-size: 16px;
+}
+body {
+    background-image: url('hollow.jpg'); /* Replace 'background.jpg' with the path to your JPG image */
+    background-size: cover; /* Ensures the background image covers the entire viewport */
+    background-position: center; /* Centers the background image */
+    /* Optionally, you can add more CSS properties to customize the background */
+}
+h1{
+    color:white;
+}
